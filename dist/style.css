@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  background-color: #d6e2f0;
+  font-family: "Outfit", sans-serif;
+}
+
+.card {
+  background-color: #fff;
+  padding: 20px;
+  width: 375px;
+  border-radius: 15px;
+  margin: auto;
+  text-align: center;
+}
+.card .cardbanner img {
+  width: 100%;
+  border-radius: 15px;
+}
+.card .card_title {
+  color: #1f3251;
+}
+.card .yasin {
+  color: blue;
+}
